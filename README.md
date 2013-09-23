@@ -1,4 +1,3 @@
-github.css
-==========
+###github.css
 
-github theme for CodeMirror
+github theme for [CodeMirror](http://codemirror.net/)
